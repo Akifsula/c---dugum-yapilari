@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "xutility": "cpp",
+        "iostream": "cpp",
+        "ios": "cpp",
+        "iomanip": "cpp",
+        "ostream": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
